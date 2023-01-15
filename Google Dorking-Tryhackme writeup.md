@@ -11,4 +11,4 @@ This section that explains the use of crawlers and the "How" a website is indexe
 *Hint: To solve the questions of this task you can search the webpage for keywords by Ctrl+f*
 ### Question 1: Name the key term of what a "Crawler" is used to do?
 `The answer to this question can be found reading the below given paragraph or by searching for "crawler" and seeing what sentences contains the word that is the answer`<br><br>
-![](T2%20Q1.png)
+![](images/T2%20Q1.png)
