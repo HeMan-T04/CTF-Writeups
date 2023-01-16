@@ -23,5 +23,5 @@ This section that explains the use of crawlers and the "How" a website is indexe
 <br>
 
 >### Question 3: What is an example of the type of contents that could be gathered from a website?
->Answer to this question can be found for searching the word "contents". It can have multiple answers as when a website is scrapped it can gather any and every information present on the site like urls of another website given in crawled website or information given on specific subjects. But we find the correct answer in the below given paragraph
+>Answer to this question can be found for searching the word "contents". It can have multiple answers as when a website is scrapped it can gather any and every information present on the site like urls of another website given in crawled website or information given on specific subjects. But we find the correct answer in the below given paragraph<br><br>
 >![](images/T2%20Q3.png)
