@@ -31,4 +31,4 @@ This section that explains the use of crawlers and the "How" a website is indexe
 ## Task 3(Enter: Search Engine Optimisation):
 This section goes over SEO and how websites can be ranked by the amount of keywords and hashtags that it meets in searchabitlty for users, social media and search engines.<br>
 In this task we use [SEO Checkup tool](https://web.dev/measure/) to get insights for tryhackme website.<br><br>
->
+>![](images/T3%20Q1.png)
