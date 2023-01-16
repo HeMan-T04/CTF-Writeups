@@ -16,3 +16,6 @@ This section that explains the use of crawlers and the "How" a website is indexe
 <br>
 
 >### Question 2: What is the name of the technique that "Search Engines" use to retrieve this information about websites?
+`If you have read the information given in the task this answer will get to you automatically but to find it without reading is a bit harder you have to search (Ctrl+f) for "Search Engines" as clue given in the question and after reading all the results thouroughly you will find the answer in below given paragraph.`
+<br><br>
+![](images/T2 Q2.png)
