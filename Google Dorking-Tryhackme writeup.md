@@ -25,3 +25,10 @@ This section that explains the use of crawlers and the "How" a website is indexe
 >### Question 3: What is an example of the type of contents that could be gathered from a website?
 >Answer to this question can be found for searching the word "contents". It can have multiple answers as when a website is scrapped it can gather any and every information present on the site like urls of another website given in crawled website or information given on specific subjects. But we find the correct answer in the below given paragraph<br><br>
 >![](images/T2%20Q3.png)
+>### Ans 3: Keywords
+<br>
+
+## Task 3(Enter: Search Engine Optimisation):
+This section goes over SEO and how websites can be ranked by the amount of keywords and hashtags that it meets in searchabitlty for users, social media and search engines.<br>
+In this task we use [SEO Checkup tool](https://web.dev/measure/) to get insights for tryhackme website.<br><br>
+>
