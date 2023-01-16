@@ -1,12 +1,12 @@
 # Google Dorking -- Tryhackme Writeup
 *This writeup explains the Google Dorking tryhackme room and my approach of doing the task given in the room. https://tryhackme.com/room/googledorking*
 
-## Task One(Ye Ol' Search Engine):
+## Task One (Ye Ol' Search Engine):
 This talks about search engines and web indexers, how they work and what we can use it for. it uses Google as a prime example as it is the most used search engine.<br>
 >### Rodger dodger ! :
->There is nothing to do here. Press Complete and move to the next task
+>### There is nothing to do here. Press Complete and move to the next task
 
-## Task Two(Let's Learn About Crawlers):
+## Task Two (Let's Learn About Crawlers):
 This section that explains the use of crawlers and the "How" a website is indexed.<br>
 *Hint: To solve the questions of this task you can search the webpage for keywords by Ctrl+f*
 >### Question 1: Name the key term of what a "Crawler" is used to do?
@@ -28,7 +28,17 @@ This section that explains the use of crawlers and the "How" a website is indexe
 >### Ans 3: Keywords
 <br>
 
-## Task 3(Enter: Search Engine Optimisation):
+## Task 3 (Enter: Search Engine Optimisation):
 This section goes over SEO and how websites can be ranked by the amount of keywords and hashtags that it meets in searchabitlty for users, social media and search engines.<br>
 In this task we use [SEO Checkup tool](https://web.dev/measure/) to get insights for tryhackme website.<br><br>
->![](images/T3%20Q1.png)
+![](images/T3%20Q1.png)
+>### Question 1: Use the same SEO checkup tool and other online alternatives to see how their results compare for https://tryhackme.com and http://googledorking.cmnatic.co.uk
+>In this question you just have to see the diffrence between two websites one tryhackme and other can be your choice of website as the abve given one doesn't exists.
+>### Ans 1: You don't have to do anything just press complete and move to the next.
+
+## Task 4 (Beepboop - Robots.txt):
+This section goes over Robots.txt. What are they, few keywords of robots.txt,how to hide directories an files from being indexed, and which crawlers have access to index the website.
+>### Question 1: Where would "robots.txt" be located on the domain "ablog.com"
+>Answer to this is given in the paragraphs of the task as robots.txt is a container or file containing what can be indexed or what can't be so crawler should reach it the first so it is served in the root directory. I have provided the para where the answer is below.<br><br>
+>![](images/T4%20Q1.png)
+>### Ans 1: ablog.com/robots.txt
