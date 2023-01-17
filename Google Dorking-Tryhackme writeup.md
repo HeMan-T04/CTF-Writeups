@@ -54,3 +54,14 @@ This section goes over Robots.txt. What are they, few keywords of robots.txt,how
 > ![](images/T4%20Q3.png)
 > ### Ans 3: User-agent:Bingbot
 <br>
+
+>### Question 4:How would we prevent a "Crawler" from indexing the directory "/dont-index-me/"?
+> Using the example given in the information given in the task<br><br>
+> ![](images/T4%20Q4.png)
+>### Ans 4: Disallow: /dont-index-me/
+<br>
+
+>### Question 5: What is the extension of a Unix/Linux system configuration file that we might want to hide from "Crawlers"?
+>The hint for this says “system files are usually 3/4 characters!” so that means the configuration file extension is slightly short than the usual abbreviation of config
+>### Ans 5: .conf
+
