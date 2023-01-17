@@ -82,3 +82,20 @@ This section Talks about Sitemaps and why sitemaps are favourable for the search
 >The first explanation of routes are in the lesson’s sentence “The blue rectangles represent the route to nested-content, similar to a directory I.e. “Products” for a store.”
 >### Ans 3: Route
 <br>
+
+
+## Task 6 (What is Google Dorking?):
+As the title of the task says this section talks about google dorking, google used for advanced searching, how to gather specfic information which is indexed by google and how to use it for our advantage and how what makes google dorking appealing.<br>
+>### Question 1: What would be the format used to query the site bbc.co.uk about flood defences
+> To search a specific site we use site:domain.com keyword and if we want to find a specific topic in that site we add that topic after the site keyword.
+> ### Ans 1: site:bbc.co.uk flood defences
+<br>
+
+>### Question 2: What term would you use to search by file type?
+> There is table given with specific keywords in the task.
+> ### Ans 2: filetype:
+<br>
+
+>### Question 3: What term can we use to look for login pages?
+> The Hint in this says “term: query” so if you think about an intitle on a web address and web page title, it may say website.com/login, or the page title itself may say “login”
+> ### Ans 3: intitle:login
