@@ -42,3 +42,15 @@ This section goes over Robots.txt. What are they, few keywords of robots.txt,how
 >Answer to this is given in the paragraphs of the task as robots.txt is a container or file containing what can be indexed or what can't be so crawler should reach it the first so it is served in the root directory. I have provided the para where the answer is below.<br><br>
 >![](images/T4%20Q1.png)
 >### Ans 1: ablog.com/robots.txt
+<br>
+
+>### Question 2: If a website was to have a sitemap, where would that be located?
+> A sitemap is a file with xml format which contains index for crawlers to use
+> ### Ans 2:  /sitemap.xml
+<br>
+
+>### Question 3: How would we only allow "Bingbot" to index the website?
+> In robots.txt User-agent keyword defines whcih crawler can index the website and combined with other keyword such as allow sets permissions to the allowed crawler.<br><br>
+> ![](images/T4%20Q3.png)
+> ### Ans 3: User-agent:Bingbot
+<br>
