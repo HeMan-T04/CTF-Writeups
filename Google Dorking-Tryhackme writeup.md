@@ -56,7 +56,7 @@ This section goes over Robots.txt. What are they, few keywords of robots.txt,how
 <br>
 
 >### Question 4:How would we prevent a "Crawler" from indexing the directory "/dont-index-me/"?
-> Using the example given in the information given in the task<br><br>
+> Using the example given in the section.<br><br>
 > ![](images/T4%20Q4.png)
 >### Ans 4: Disallow: /dont-index-me/
 <br>
@@ -64,4 +64,21 @@ This section goes over Robots.txt. What are they, few keywords of robots.txt,how
 >### Question 5: What is the extension of a Unix/Linux system configuration file that we might want to hide from "Crawlers"?
 >The hint for this says “system files are usually 3/4 characters!” so that means the configuration file extension is slightly short than the usual abbreviation of config
 >### Ans 5: .conf
+<br>
 
+## Task 5 (Sitemaps):
+This section Talks about Sitemaps and why sitemaps are favourable for the search engines. It is self explanatory, Once you have read it questions are easy to do. <br>
+>### Question 1: What is the typical file structure of a "Sitemap"?
+>The answer to this question is mentioned in this section and the section before it.
+>### Ans 1: xml 
+<br>
+
+>### Question 2: What real life example can "Sitemaps" be compared to?
+>The sitemap is the map to help the little crawlers to not get lost on a website.
+>### Ans 2: Map
+<br>
+
+>### Question 3: Name the keyword for the path taken for content on a website
+>The first explanation of routes are in the lesson’s sentence “The blue rectangles represent the route to nested-content, similar to a directory I.e. “Products” for a store.”
+>### Ans 3: Route
+<br>
