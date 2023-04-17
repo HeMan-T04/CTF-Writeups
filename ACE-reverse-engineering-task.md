@@ -51,3 +51,5 @@ So after decompiling the elf we got the encrypted flag "IHlvdSBnMHQgbWUgM2V2ZXJz
 *Command used: "echo "IHlvdSBnMHQgbWUgM2V2ZXJzZWQgYWhoaGhoCg==" | base64 -d"*
 ![](images/rev5.png)
 Finally we got the flag "You got me 3versed ahhhh" <br>
+
+## Made By Hemant Kathuria
